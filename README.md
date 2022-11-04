@@ -28,4 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willidert&layout=compact&langs_count=5&theme=dark"/>
   
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willidert">
+  
+  [![@willidert's Holopin board](https://holopin.me/willidert)](https://holopin.io/@willidert)
 </div>
